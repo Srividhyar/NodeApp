@@ -1,0 +1,15 @@
+{
+  "name": "nodeapp",
+  "version": "1.0.0",
+  "description": "Simple Node Application",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app",
+    "test": "npm test"
+  },
+  "author": "Srividhya Ramamoorthy",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
